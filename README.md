@@ -4,6 +4,9 @@ Slide deck and .csv file for introductory workshop to Machine Learning with Azur
 Alternate download source of Train.csv acquired from Kaggle's tutorial competition "Titanic: Machine Learning from Disaster". 
 Source link : https://www.kaggle.com/c/titanic/data
 
+This workshop was based off of a tutorial created by Jennifer Marsman at Microsoft
+Source link: https://channel9.msdn.com/Blogs/raw-tech/Using-Azure-Machine-Learning-to-Predict-Who-Will-Survive-the-Titanic-Part-1
+
 ## Data Dictionary
 
 ### Variable  Definition  Key
